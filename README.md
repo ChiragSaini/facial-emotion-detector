@@ -6,4 +6,8 @@ The model trained can detct upto five different emotions.These five meotions are
 
 ## How to use:
 Simple open the ipynb file and run this all to train the model.
-I am not including trained model, but it get trained in moderate time andyou can use last code cell which uses opencv functions to detect it in real time.
+I am also including trained model
+
+but you can also it get trained in moderate time and 
+
+you can use last code cell which uses opencv functions to detect it in real time.
