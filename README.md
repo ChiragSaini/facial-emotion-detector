@@ -11,3 +11,5 @@ I am also including trained model
 but you can also it get trained in moderate time and 
 
 you can use last code cell which uses opencv functions to detect it in real time.
+
+![Output Image](https://github.com/ChiragSaini/facial-emotion-detector/blob/master/outputPNG.PNG)
