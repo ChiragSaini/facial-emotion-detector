@@ -1,6 +1,6 @@
 # Face Emotion Detector
 
-In this project i have trained a CNN using Keras and used it with Opencv3 library to detect as person's face emotion.
+In this project i have trained a CNN using Keras(miniature version of VGG16) and used it with Opencv3 library to detect as person's face emotion.
 The model trained can detct upto five different emotions.These five meotions are: Happy, Sad, Angry, Suprise and Fear.
 
 
